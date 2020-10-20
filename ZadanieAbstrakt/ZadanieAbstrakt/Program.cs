@@ -40,6 +40,7 @@ namespace ZadanieAbstrakt
                         break;
                 }
             }
+            Console.ReadKey();
         }
         static bool CheckNum(string a)
         {
